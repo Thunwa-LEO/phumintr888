@@ -1,5 +1,8 @@
 # phumintr888
 
+เว็บไซต์: https://thunwa-leo.github.io/phumintr888/  
+โค้ด: https://github.com/Thunwa-LEO/phumintr888
+
 เว็บแพลนเนอร์สำหรับนักเรียน: ตารางเรียน การบ้าน และการแจ้งเตือนก่อนถึงกำหนดส่ง
 
 ## ฟีเจอร์
