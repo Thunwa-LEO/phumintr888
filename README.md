@@ -45,3 +45,13 @@ python3 -m http.server 8899
 
 ใช้ Tesseract.js (ไทย + อังกฤษ) โดยประมวลผลรูปในเบราว์เซอร์
 ไม่มีการอัปโหลดรูปขึ้นเซิร์ฟเวอร์ และต้องต่ออินเทอร์เน็ตครั้งแรกเพื่อโหลดไลบรารี
+
+
+## Google Sites + Google Sheets version
+
+โฟลเดอร์ [`google-apps-script/`](google-apps-script/) มีเวอร์ชันล็อกอินด้วย username/password
+และซิงก์ข้อมูลกับ Google Sheets สำหรับฝังใน Google Sites
+
+- Web App: https://script.google.com/macros/s/AKfycbztTjWs9gUaHQjk6lkPeOeh1PA9I-4QhrrNbkBIKcXVe8ccHiNytQZVh6MYffwyLJRhsQ/exec
+- ต้องเปิด Apps Script editor แล้ว Run ฟังก์ชัน `setup` หนึ่งครั้งเพื่ออนุญาต Google Sheets/Drive
+- รายละเอียดและขั้นตอนฝังใน Google Sites: [`google-apps-script/README.md`](google-apps-script/README.md)
